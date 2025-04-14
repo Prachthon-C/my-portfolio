@@ -1,0 +1,47 @@
+ 
+#one,#two{
+    border-width: 0px;
+}
+ 
+ table,th,td{
+    border-width: 2px;
+    border-color: black;
+    border-style: solid;
+    border-collapse: collapse;
+}
+
+
+#one{
+    text-align: left;
+}
+#two
+{
+    text-align: center;
+}
+
+
+.marks{
+    text-align: center;
+}
+
+.marks_percentage{
+    text-align: center;
+}
+
+caption{
+     text-decoration: underline;
+}
+ td , th{
+    background-color: rgba(24, 66, 255, 0.747);
+ }
+
+ footer{
+    text-align: center;
+    background-color: blue;
+    height: 30px;
+ }
+
+ a{
+    color: white;
+    font-size: 20px;
+ }
