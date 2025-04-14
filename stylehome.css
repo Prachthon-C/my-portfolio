@@ -1,0 +1,26 @@
+h1{
+    background-color: #715AFF;
+    color: white;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body{
+    background-color: #102E4A;
+}
+
+pre{
+    color: white;
+}
+
+ul{
+    color: white;
+}
+
+#id1 , #id2, #id3{
+    color: #55C1FF;
+}
+
+p{
+    color: white;
+    font-family: cursive;
+}
