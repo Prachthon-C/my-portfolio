@@ -26,8 +26,4 @@ p{
     font-family: cursive;
 }
 
-@media(max-width:440px){
-    pre{
-        word-wrap: break-word;
-    }
-}
+
